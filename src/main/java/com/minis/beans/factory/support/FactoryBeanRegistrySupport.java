@@ -4,7 +4,7 @@ import com.minis.beans.factory.FactoryBean;
 import com.minis.beans.factory.exception.BeansException;
 
 /**
- * @author mqz
+ * @author yjc
  */
 public abstract class FactoryBeanRegistrySupport extends DefaultSingletonBeanRegistry{
 

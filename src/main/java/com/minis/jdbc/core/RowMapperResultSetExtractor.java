@@ -7,7 +7,7 @@ import java.util.Collections;
 import java.util.List;
 
 /**
- * @author mqz
+ * @author yjc
  */
 public class RowMapperResultSetExtractor<T> implements ResultSetExtractor<List<T>> {
 

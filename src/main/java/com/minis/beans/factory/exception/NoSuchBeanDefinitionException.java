@@ -1,7 +1,7 @@
 package com.minis.beans.factory.exception;
 
 /**
- * @author mqz
+ * @author yjc
  */
 public class NoSuchBeanDefinitionException extends Exception{
 

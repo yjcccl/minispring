@@ -8,7 +8,7 @@ import java.lang.reflect.Method;
 import java.util.Arrays;
 
 /**
- * @author mqz
+ * @author yjc
  */
 public class CGLibDynamicAopProxy implements AopProxy, InvocationHandler {
 

@@ -4,7 +4,7 @@ import java.sql.SQLException;
 import java.sql.Statement;
 
 /**
- * @author mqz
+ * @author yjc
  */
 @FunctionalInterface
 public interface StatementCallback {

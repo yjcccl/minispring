@@ -5,7 +5,7 @@ import com.minis.aop.MethodBeforeAdvice;
 import java.lang.reflect.Method;
 
 /**
- * @author mqz
+ * @author yjc
  */
 public class MyBeforeAdvice implements MethodBeforeAdvice {
     @Override

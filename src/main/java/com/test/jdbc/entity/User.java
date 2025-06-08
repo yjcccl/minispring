@@ -3,7 +3,7 @@ package com.test.jdbc.entity;
 import java.util.Date;
 
 /**
- * @author mqz
+ * @author yjc
  */
 public class User {
 

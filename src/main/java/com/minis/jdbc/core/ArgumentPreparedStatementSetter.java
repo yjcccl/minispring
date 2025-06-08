@@ -4,7 +4,7 @@ import java.sql.PreparedStatement;
 import java.sql.SQLException;
 
 /**
- * @author mqz
+ * @author yjc
  */
 public class ArgumentPreparedStatementSetter {
 

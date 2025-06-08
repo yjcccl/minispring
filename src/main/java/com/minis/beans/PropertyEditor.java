@@ -1,7 +1,7 @@
 package com.minis.beans;
 
 /**
- * @author mqz
+ * @author yjc
  */
 public interface PropertyEditor {
 

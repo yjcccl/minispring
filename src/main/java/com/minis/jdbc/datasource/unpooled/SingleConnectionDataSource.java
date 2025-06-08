@@ -10,7 +10,7 @@ import java.util.Properties;
 import java.util.logging.Logger;
 
 /**
- * @author mqz
+ * @author yjc
  * this is an unpooled datasource
  */
 public class SingleConnectionDataSource implements DataSource {

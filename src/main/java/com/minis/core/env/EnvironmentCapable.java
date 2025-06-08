@@ -1,7 +1,7 @@
 package com.minis.core.env;
 
 /**
- * @author mqz
+ * @author yjc
  */
 public interface EnvironmentCapable {
 

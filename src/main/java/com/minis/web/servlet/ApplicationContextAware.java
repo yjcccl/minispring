@@ -4,7 +4,7 @@ import com.minis.beans.factory.exception.BeansException;
 import com.minis.context.ApplicationContext;
 
 /**
- * @author mqz
+ * @author yjc
  */
 public interface ApplicationContextAware {
 

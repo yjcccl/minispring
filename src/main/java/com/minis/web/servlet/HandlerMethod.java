@@ -3,7 +3,7 @@ package com.minis.web.servlet;
 import java.lang.reflect.Method;
 
 /**
- * @author mqz
+ * @author yjc
  */
 public class HandlerMethod {
 

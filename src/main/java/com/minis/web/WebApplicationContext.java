@@ -5,7 +5,7 @@ import com.minis.context.ApplicationContext;
 import javax.servlet.ServletContext;
 
 /**
- * @author mqz
+ * @author yjc
  */
 public interface WebApplicationContext extends ApplicationContext {
 

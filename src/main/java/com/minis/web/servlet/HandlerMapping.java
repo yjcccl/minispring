@@ -3,7 +3,7 @@ package com.minis.web.servlet;
 import javax.servlet.http.HttpServletRequest;
 
 /**
- * @author mqz
+ * @author yjc
  */
 public interface HandlerMapping {
 

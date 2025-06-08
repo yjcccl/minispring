@@ -1,7 +1,7 @@
 package com.test.aop.service;
 
 /**
- * @author mqz
+ * @author yjc
  */
 public interface IAction {
 

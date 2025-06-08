@@ -15,7 +15,7 @@ import java.util.concurrent.TimeUnit;
 import java.util.logging.Logger;
 
 /**
- * @author mqz
+ * @author yjc
  *
  *
  * this is a pooled datasource

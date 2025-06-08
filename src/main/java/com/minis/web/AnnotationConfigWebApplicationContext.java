@@ -19,7 +19,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author mqz
+ * @author yjc
  */
 public class AnnotationConfigWebApplicationContext extends AbstractApplicationContext implements WebApplicationContext {
 

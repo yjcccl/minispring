@@ -9,7 +9,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author mqz
+ * @author yjc
  */
 public interface AutowireCapableBeanFactory extends BeanFactory {
 

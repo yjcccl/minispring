@@ -7,7 +7,7 @@ import java.util.Properties;
 import java.util.concurrent.Executor;
 
 /**
- * @author mqz
+ * @author yjc
  */
 public class PooledConnection implements Connection {
 

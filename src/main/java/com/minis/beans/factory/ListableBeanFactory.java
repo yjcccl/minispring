@@ -6,7 +6,7 @@ import com.minis.beans.factory.exception.NoSuchBeanDefinitionException;
 import java.util.Map;
 
 /**
- * @author mqz
+ * @author yjc
  */
 public interface ListableBeanFactory extends BeanFactory{
 

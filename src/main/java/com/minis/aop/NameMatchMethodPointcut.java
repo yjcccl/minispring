@@ -5,7 +5,7 @@ import com.minis.util.PatternMatchUtils;
 import java.lang.reflect.Method;
 
 /**
- * @author mqz
+ * @author yjc
  */
 public class NameMatchMethodPointcut implements MethodMatcher, Pointcut {
 

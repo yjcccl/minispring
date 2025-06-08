@@ -9,7 +9,7 @@ import com.minis.core.env.Environment;
 import com.minis.core.env.EnvironmentCapable;
 
 /**
- * @author mqz
+ * @author yjc
  */
 public interface ApplicationContext extends EnvironmentCapable, ListableBeanFactory, ConfigurableBeanFactory, ApplicationEventPublisher {
 

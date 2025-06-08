@@ -9,7 +9,7 @@ import javax.servlet.ServletException;
 import java.io.File;
 
 /**
- * @author mqz
+ * @author yjc
  */
 public class Main {
 

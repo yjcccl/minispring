@@ -4,7 +4,7 @@ import com.minis.beans.factory.BeanFactory;
 import com.minis.beans.factory.exception.BeansException;
 
 /**
- * @author mqz
+ * @author yjc
  */
 public interface BeanPostProcessor {
 

@@ -9,7 +9,7 @@ import javax.servlet.http.HttpServletRequest;
 import java.lang.reflect.Method;
 
 /**
- * @author mqz
+ * @author yjc
  */
 public class RequestMappingHandlerMapping implements HandlerMapping, ApplicationContextAware{
 

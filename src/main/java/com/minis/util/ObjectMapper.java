@@ -1,7 +1,7 @@
 package com.minis.util;
 
 /**
- * @author mqz
+ * @author yjc
  */
 public interface ObjectMapper {
 

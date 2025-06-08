@@ -4,7 +4,7 @@ import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
 /**
- * @author mqz
+ * @author yjc
  */
 public interface HttpMessageConverter {
 

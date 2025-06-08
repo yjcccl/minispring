@@ -1,7 +1,7 @@
 package com.minis.web.servlet.view;
 
 /**
- * @author mqz
+ * @author yjc
  */
 public interface ViewResolver {
 

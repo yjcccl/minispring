@@ -15,7 +15,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author mqz
+ * @author yjc
  * @version 1.0
  * @since 1.0
  * 这里使用到了装饰器模式哦

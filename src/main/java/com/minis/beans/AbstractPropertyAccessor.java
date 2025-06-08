@@ -4,7 +4,7 @@ import com.minis.beans.factory.config.PropertyValue;
 import com.minis.beans.factory.config.PropertyValues;
 
 /**
- * @author mqz
+ * @author yjc
  */
 public abstract class AbstractPropertyAccessor extends PropertyEditorRegistrySupport{
 

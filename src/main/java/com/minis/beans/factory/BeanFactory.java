@@ -4,7 +4,7 @@ import com.minis.beans.factory.exception.BeansException;
 import com.minis.beans.factory.exception.NoSuchBeanDefinitionException;
 
 /**
- * @author mqz
+ * @author yjc
  * @version 1.0
  * @since 1.0
  */

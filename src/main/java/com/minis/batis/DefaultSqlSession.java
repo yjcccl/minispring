@@ -4,7 +4,7 @@ import com.minis.jdbc.core.JdbcTemplate;
 import com.minis.jdbc.core.PreparedStatementCallback;
 
 /**
- * @author mqz
+ * @author yjc
  */
 public class DefaultSqlSession implements SqlSession{
 

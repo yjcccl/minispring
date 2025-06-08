@@ -3,7 +3,7 @@ package com.minis.context;
 import java.util.EventObject;
 
 /**
- * @author mqz
+ * @author yjc
  */
 public class ApplicationEvent extends EventObject {
 

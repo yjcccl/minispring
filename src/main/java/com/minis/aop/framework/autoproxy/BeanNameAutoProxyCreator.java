@@ -7,7 +7,7 @@ import com.minis.beans.factory.exception.BeansException;
 import com.minis.util.PatternMatchUtils;
 
 /**
- * @author mqz
+ * @author yjc
  */
 public class BeanNameAutoProxyCreator implements BeanPostProcessor {
 

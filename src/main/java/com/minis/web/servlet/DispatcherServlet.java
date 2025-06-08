@@ -28,7 +28,7 @@ import java.net.URL;
 import java.util.*;
 
 /**
- * @author mqz
+ * @author yjc
  */
 public class DispatcherServlet extends HttpServlet {
 

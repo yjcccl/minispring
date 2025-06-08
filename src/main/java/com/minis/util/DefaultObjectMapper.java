@@ -9,7 +9,7 @@ import java.time.format.DateTimeFormatter;
 import java.util.Date;
 
 /**
- * @author mqz
+ * @author yjc
  */
 public class DefaultObjectMapper implements ObjectMapper {
     String dateFormat = "yyyy-MM-dd";

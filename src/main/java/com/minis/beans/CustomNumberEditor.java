@@ -6,7 +6,7 @@ import com.minis.util.StringUtils;
 import java.text.NumberFormat;
 
 /**
- * @author mqz
+ * @author yjc
  */
 public class CustomNumberEditor implements PropertyEditor{
 

@@ -9,7 +9,7 @@ import com.minis.util.ClassUtils;
 
 
 /**
- * @author mqz
+ * @author yjc
  */
 public class ProxyFactoryBean implements FactoryBean<Object>, BeanFactoryAware {
 

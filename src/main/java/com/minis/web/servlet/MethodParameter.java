@@ -1,7 +1,7 @@
 package com.minis.web.servlet;
 
 /**
- * @author mqz
+ * @author yjc
  */
 public class MethodParameter {
 

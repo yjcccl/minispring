@@ -1,7 +1,7 @@
 package com.minis.beans.factory;
 
 /**
- * @author mqz
+ * @author yjc
  */
 public interface BeanFactoryAware {
     void setBeanFactory(BeanFactory beanFactory);

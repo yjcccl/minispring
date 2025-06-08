@@ -14,7 +14,7 @@ import java.util.Iterator;
 import java.util.Map;
 
 /**
- * @author mqz
+ * @author yjc
  */
 public class DefaultSqlSessionFactory implements SqlSessionFactory{
 

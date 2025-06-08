@@ -6,7 +6,7 @@ import java.util.Date;
 import java.util.List;
 
 /**
- * @author mqz
+ * @author yjc
  */
 public class JdbcTemplate {
 

@@ -10,7 +10,7 @@ import javax.servlet.http.HttpServletRequest;
 import java.util.Map;
 
 /**
- * @author mqz
+ * @author yjc
  */
 public class WebDataBinder {
 

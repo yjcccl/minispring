@@ -15,7 +15,7 @@ import java.util.Map;
 import java.util.concurrent.atomic.AtomicBoolean;
 
 /**
- * @author mqz
+ * @author yjc
  */
 public abstract class AbstractApplicationContext implements ApplicationContext {
 

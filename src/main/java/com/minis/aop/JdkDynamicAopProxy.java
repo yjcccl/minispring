@@ -6,7 +6,7 @@ import java.lang.reflect.Proxy;
 import java.util.Arrays;
 
 /**
- * @author mqz
+ * @author yjc
  */
 public class JdkDynamicAopProxy implements AopProxy, InvocationHandler {
 

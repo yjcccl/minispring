@@ -4,7 +4,7 @@ import com.minis.aop.MethodInterceptor;
 import com.minis.aop.MethodInvocation;
 
 /**
- * @author mqz
+ * @author yjc
  */
 public class TracingInterceptor implements MethodInterceptor {
     @Override

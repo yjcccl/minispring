@@ -14,7 +14,7 @@ import java.lang.reflect.Method;
 import java.lang.reflect.Parameter;
 
 /**
- * @author mqz
+ * @author yjc
  */
 public class RequestMappingHandlerAdapter implements HandlerAdapter, ApplicationContextAware{
 

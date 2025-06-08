@@ -1,7 +1,7 @@
 package com.minis.context;
 
 /**
- * @author mqz
+ * @author yjc
  */
 public class ContextRefreshEvent extends ApplicationEvent{
 

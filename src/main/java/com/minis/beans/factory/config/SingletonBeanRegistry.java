@@ -1,7 +1,7 @@
 package com.minis.beans.factory.config;
 
 /**
- * @author mqz
+ * @author yjc
  */
 public interface SingletonBeanRegistry {
 

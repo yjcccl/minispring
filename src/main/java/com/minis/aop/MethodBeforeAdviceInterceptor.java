@@ -1,7 +1,7 @@
 package com.minis.aop;
 
 /**
- * @author mqz
+ * @author yjc
  */
 public class MethodBeforeAdviceInterceptor implements MethodInterceptor, BeforeAdvice {
 

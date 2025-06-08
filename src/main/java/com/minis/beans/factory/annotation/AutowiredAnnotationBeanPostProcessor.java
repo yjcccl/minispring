@@ -9,7 +9,7 @@ import com.minis.beans.factory.exception.NoSuchBeanDefinitionException;
 import java.lang.reflect.Field;
 
 /**
- * @author mqz
+ * @author yjc
  */
 public class AutowiredAnnotationBeanPostProcessor implements BeanPostProcessor {
 

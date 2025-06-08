@@ -3,7 +3,7 @@ package com.minis.aop;
 import java.lang.reflect.Method;
 
 /**
- * @author mqz
+ * @author yjc
  */
 public interface MethodBeforeAdvice extends BeforeAdvice{
 

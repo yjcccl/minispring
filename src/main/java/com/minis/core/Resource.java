@@ -3,7 +3,7 @@ package com.minis.core;
 import java.util.Iterator;
 
 /**
- * @author mqz
+ * @author yjc
  */
 public interface Resource extends Iterator<Object> {
 }

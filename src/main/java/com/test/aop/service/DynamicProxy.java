@@ -5,7 +5,7 @@ import java.lang.reflect.Method;
 import java.lang.reflect.Proxy;
 
 /**
- * @author mqz
+ * @author yjc
  */
 public class DynamicProxy<T> {
 

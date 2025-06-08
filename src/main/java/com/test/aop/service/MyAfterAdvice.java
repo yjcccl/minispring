@@ -5,7 +5,7 @@ import com.minis.aop.AfterReturningAdvice;
 import java.lang.reflect.Method;
 
 /**
- * @author mqz
+ * @author yjc
  */
 public class MyAfterAdvice implements AfterReturningAdvice {
     @Override

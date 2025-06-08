@@ -3,7 +3,7 @@ package com.minis.context;
 import java.util.EventListener;
 
 /**
- * @author mqz
+ * @author yjc
  */
 public class ApplicationListener implements EventListener {
 

@@ -9,7 +9,7 @@ import java.net.URL;
 import java.util.Iterator;
 
 /**
- * @author mqz
+ * @author yjc
  * @version 1.0
  * @since 1.0
  */
