@@ -7,7 +7,7 @@ import java.lang.reflect.Method;
 /**
  * @author mqz
  */
-public class NameMatchMethodPointcut implements MethodMatcher, Pointcut{
+public class NameMatchMethodPointcut implements MethodMatcher, Pointcut {
 
     private String mappedName = "";
 
@@ -16,6 +16,7 @@ public class NameMatchMethodPointcut implements MethodMatcher, Pointcut{
     }
 
     @Override
+    // 判断这个连接点是否需要被拦截
     public boolean matches(Method method, Class<?> targetClass) {
         return method.getName().equals(mappedName) || isMatch(method.getName());
     }
