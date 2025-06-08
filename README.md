@@ -152,7 +152,7 @@ public List<User> findAllUsers() {
 
 ## 👨‍💻 作者
 
-- **ykexc** - *Initial work* - [ykexc](https://github.com/ykexc)
+- **yjcccl** - *Initial work* - [ykexc](https://github.com/yjcccl)
 
 ## 🙏 致谢
 
@@ -164,7 +164,7 @@ public List<User> findAllUsers() {
 如有问题或建议，请通过以下方式联系：
 
 - 提交 [Issue](https://github.com/your-username/minispring/issues)
-- 发送邮件至：your-email@example.com
+
 
 ---
 
