@@ -152,7 +152,7 @@ public List<User> findAllUsers() {
 
 ## 👨‍💻 作者
 
-- **yjcccl** - *Initial work* - [ykexc](https://github.com/yjcccl)
+- **yjcccl** - *Initial work* - [yjcccl](https://github.com/yjcccl)
 
 ## 🙏 致谢
 
