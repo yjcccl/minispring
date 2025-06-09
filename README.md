@@ -156,7 +156,7 @@ public List<User> findAllUsers() {
 
 ## 👨‍💻 作者
 
-- **yjcccl** - _Initial work_ - [yjcccl](https://github.com/yjcccl)
+- **yjcccl** - *Initial work* - [yjcccl](https://github.com/yjcccl)
 
 ## 🙏 致谢
 
@@ -167,7 +167,7 @@ public List<User> findAllUsers() {
 
 如有问题或建议，请通过以下方式联系：
 
-- 提交 [Issue](https://github.com/your-username/minispring/issues)
+- 提交 [Issue](https://github.com/yjcccl/minispring/issues)
 
 ---
 
